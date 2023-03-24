@@ -1,0 +1,13 @@
+ul{
+	list-style-type:circle;
+	list-style-type:square;
+	color:red;
+	list-style-position:inside;
+	list-style-image:url(https://cdn-icons-png.flaticon.com/128/25/25377.png);
+}
+ol{
+	list-style-type:upper-roman;
+	list-style-type:lower-alpha;
+	color:blue;
+	list-style-position:outside;
+}
